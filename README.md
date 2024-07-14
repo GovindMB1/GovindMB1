@@ -5,7 +5,7 @@
 <h3 align="center">Tech enthusiast and ML/AI aficionado passionate about innovation, collaboration, and impactful solutions</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/aec86803adbca800f3e43ce1e986aa0e9791fe680cc6708c4aac9eabfebb828f/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966">
 
-- 🔭 Currently working as **a Research and Development Intern at Digital University Kerala**
+- 🔭 Currently working as **a Data Scientist Intern at EVOASTRA VENTURES PVT LTD**
 
 - 💬 Passionate about **Python, SQL, machine learning, deep learning, and reinforcement learning**
 
