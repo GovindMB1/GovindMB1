@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Govind M B</h1>
 <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="logo" width="100%" height="200">
 
-<h3 align="center">Tech enthusiast and ML/AI aficionado passionate about innovation, collaboration, and impactful solutions</h3>
+<h3 align="center">Tech enthusiast and AI/ML aficionado passionate about innovation, collaboration, and impactful solutions</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/aec86803adbca800f3e43ce1e986aa0e9791fe680cc6708c4aac9eabfebb828f/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966">
 
 - 🔭 Currently working as **a Data Scientist Intern at EVOASTRA VENTURES PVT LTD**
