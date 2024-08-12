@@ -9,7 +9,7 @@
 
 - 💬 Passionate about **Python, SQL, machine learning, deep learning, and reinforcement learning**
 
-- 🤝 Eager to collaborate with diverse clients to amplify my skills and contribute <br> to groundbreaking **ML/AI ventures .**
+- 🤝 Eager to collaborate with diverse clients to amplify my skills and contribute to groundbreaking **ML/AI ventures .**
 
 - 📫 How to reach me **govindmbmb123@gmail.com**
 
